@@ -1,0 +1,11 @@
+{
+  "name": "codealpha-age-calculator",
+  "version": "1.0.0",
+  "description": "\"Here you can easily estimate your age.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
